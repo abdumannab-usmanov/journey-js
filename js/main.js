@@ -1,4 +1,4 @@
-var journey = prompt("Money that you have for journey");
+var journey = +prompt("Money that you have for journey");
 
 
 
